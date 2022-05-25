@@ -3,4 +3,4 @@
 and some description....!
 
 ## subheader
-<this is a subHeader updated in vs-code>
+<this is a subHeader updated in vs-Code>
